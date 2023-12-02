@@ -10,6 +10,18 @@ Create an Excel-based Sales and Finance Analytics Report to derive informed deci
 
 This project tackles the analysis of a vast dataset comprising over half a million records of unorganized sales data, demanding extensive ETL efforts. Objective is to unearth strategic insights that will empower AtliQ Hardwarres to make informed decisions and effectively track key performance indicators (KPIs). The ultimate aim is to drive substantial improvements in the company's performance in the years ahead, centered around net sales and net gross margin.
 
+## Workflow Steps:
+
+- ETL (Extract, Transform, Load) in excel.
+- Solution design thought process.
+- Creating connections among tables using data modelling.
+- Adding the Date table using Power Query(M language).
+- Functional knowledge in Sales, Finance and Profit & Loss.
+- Creating Customer performance report.
+- Creating Market performance vs Target report.
+- Creating P&L reports by year, quarters and months.
+- Further analysis of the given data by solving the assignment problems
+
 ## Project Highlights
 
 ### Project 1: Sales Analysis and Reporting
@@ -40,13 +52,22 @@ This project tackles the analysis of a vast dataset comprising over half a milli
 
 + Role of reports: Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
-### Technical & Soft Skills:
-- Proficiency in ETL methodology (Extract, Transform, Load).
+## Technical & Soft Skills:
+
+- [x] Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
 - [x]	Ability to derive fiscal months and quarters.
 - [x]	Establishing data model relationships with Power Pivot.
 - [x]	Proficiency in incorporating supplementary data into an existing data model.
 - [x]	Utilizing DAX to create calculated columns.
+
+## Soft Skills:
+
+- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Developing a systematic approach to devising a report building plan.
+
 
 
 
