@@ -38,7 +38,7 @@ This project tackles the analysis of a vast dataset comprising over half a milli
 
 + Role of reports: Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
-### Finance Report:
+### Project 2: Finance Report:
 
 + Project Objective::
 
