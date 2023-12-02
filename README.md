@@ -30,7 +30,7 @@ This project tackles the analysis of a vast dataset comprising over half a milli
 
 + Project Objective::
 
-1. Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/simipat/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Fiscal%20year.pdf) & [Months]
+1. Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/simipat/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Fiscal%20year.pdf) & [Months](https://github.com/simipat/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statement%20by%20Months.pdf)
 
 
 
