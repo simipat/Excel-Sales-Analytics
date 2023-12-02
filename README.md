@@ -16,5 +16,5 @@ This project tackles the analysis of a vast dataset comprising over half a milli
 
 + Objective:
 
-1. Create a 
+1. Create a [Customer Performance Report](https://github.com/simipat/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 
